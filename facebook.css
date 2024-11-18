@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.starter h1{
+    color: #5050c9;
+    font-size: 45px;
+}
+.starter p{
+    font-size: 25px;
+}
+.starter{
+    padding-left: 150px;
+    padding-top: 20%;
+}
+.form{
+   
+}
+.main{
+    padding-left: 50%;
+}

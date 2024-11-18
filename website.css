@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* css of header */
+.navigation{
+    display: flex;
+    font-size: 35px;
+    
+}
+.menu{
+    list-style: none;
+    display: flex;
+    padding: 0px 30px;
+}
+.menu li{
+    list-style: none;
+    background-color:aqua ;height:100%; width:100%;
+    padding: 0% 20%;
+}
+.img_1{
+        width: 45px;
+        height: 45px;
+}
+/* css of header */
+
+/* css of footer */
+.div_footer{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+}
+.div_2{
+    padding-left:480px;
+}
+.footer_img{
+      
+}
+
+/* css of footer */
+
+/* bottom */
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+/* bottom */

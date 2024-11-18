@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.divion img{
+    width: 50px;
+
+}
+.mainheader{
+
+}
+.navigation{
+display: flex;
+}
+.underline{
+    list-style: none;
+    color: aqua;
+    display: flex;
+    padding-bottom: 50px;
+}
+.underline li{
+    padding: 0px 30px;
+    font-size: 20px;
+    color: blueviolet;
+  
+}
+.underline li a{
+    list-style: none;
+
+}
+.meeting{
+   background-color: black;
+    color:white;
+    align:left;
+}
+.footer{
+    background-color:mediumturquoise;
+    height: 200px;
+}
+.meet{
+    background-color:aqua ;
+    color: aliceblue;
+}
+.menu{
+    display: flex;
+}
+.bottom{
+    align:center;
+}
+.selection{
+    display: flex;
+}
+.first{
+    padding-top: 30px;
+font-size: 30px;
+
+}
+.second{
+padding-top: 30px;
+    font-size: 20px;
+
+}
+.last{
+color: red;
+}
+.pra{
+    font-size: 50px;
+}
+.images{
+    display: flex;
+}
+    

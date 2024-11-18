@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.mainheader{
+  padding: 20px 10px;
+}
+
+.navigation{
+display: flex;
+}
+.one{
+width: 20%;
+}
+.menu li a{
+    list-style: none;
+    padding: 0px 20px;
+    font-size: 33.33px;
+}
+.meun li{
+    padding: 0px 30px;
+    font-size: 70px;
+}
+.menu{
+    list-style: none;
+    width: 70%;
+    display: flex;
+}
+.button{
+    font-size: 10px;
+    background: black;
+    color: white;
+}
+.mainfooter{
+    background-color: rgb(72, 226, 226);
+    height: 150PX;
+    padding: 20px 20px;
+    padding-top: 80px;
+    font-size: 40px;
+
+}
+.footdiv{
+    display: flex;
+    padding-top: 80PX;
+}
+.man{
+    font-size: 25px;
+}
+.book{
+    background-color:rgb(53, 201, 201);
+    color: white;
+    font-size: 22.2px;
+    
+}
+.bottom{
+    display: flex;
+}
+.ppp{
+    font-size: 30px;
+    padding-top: 40px;
+}
+.qqq{
+    font-size: 20px;
+    padding-top: 40px;
+}
+.footimg{
+    background-image:url(../img/Iamge.png);
+} 
+.imgs{
+    display: flex;
+}
+.div-img{
+padding-left: 30px;
+}

@@ -1,0 +1,50 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.selection{
+display: flex;
+flex-wrap: wrap;
+}
+.box{
+    width: 25%;
+
+}
+.inner{
+padding: 10px;
+}
+.imgs{
+width: 100%;
+height: 100%;
+}
+@media (max_width:992px) {
+    .box{
+        width: 100%;
+    }
+    
+}
+@media (max_width:767px) {
+    .box{
+        width: 50%;
+    }
+    
+}
+@media (min_width:300px) {
+    .box{
+        background-color: goldenrod;
+    }
+    
+}
+.btn{
+    color: blueviolet;
+    background-color: burlywood;
+    font-size: 30px;
+    padding: 30px;
+}
+.menu{
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
